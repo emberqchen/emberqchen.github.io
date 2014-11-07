@@ -6,11 +6,13 @@
   color:#FFFFFF;
   font-size: 24px;
   font-weight:bold;
-  padding:5px;
+  padding:10px;
+  background-color:pink;
+
   text-transform:uppercase;
 }
 
 .jumbotron {
   height:500px;
-  background-image:url('#');
+  background-image:url('images/me1.png');
 }
