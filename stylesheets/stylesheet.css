@@ -1,6 +1,6 @@
 
 
-.nav {
+.nav .container{
   margin-left:auto; margin-right:auto;
 }
 .nav a {
@@ -19,8 +19,8 @@
 }
 
 .jumbotron {
-  height:400px; width:auto;
   background-image:url('../images/me1.png');
+  background-size:auto 400px;
   margin-left:auto; margin-right:auto;
 }
 
