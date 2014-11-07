@@ -1,7 +1,11 @@
+.header {
 
+  margin-left:auto; margin-right:auto;
+}
 
 .nav .container{
   
+  margin-left:auto; margin-right:auto;
 }
 .nav a {
   position: ;
@@ -12,16 +16,18 @@
 
   text-transform:uppercase;
   
+  margin-left:auto; margin-right:auto;
 }
 
 .nav li {
   display:inline;
+  
   margin-left:auto; margin-right:auto;
 }
 
 .jumbotron {
-  background-image:url('../images/me1.png');
   background-size:600px;
+  background-image:url('../images/me1.png');
   margin-left:auto; margin-right:auto;
 }
 
