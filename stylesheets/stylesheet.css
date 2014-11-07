@@ -5,17 +5,21 @@
 }
 
 .nav {
-  width:70%;
+  width:50%;
   margin-left:auto; margin-right:auto;
 }
 .nav a {
   position: ;
   color:#FFFFFF;
-  font-size: 20px; font-weight:bold; font-family:Helvetica, sans-serif;
+  font-size: 20px; font-weight:bold; font-style:normal; font-family:Helvetica, sans-serif; text-decoration:none;
   padding:5px;
   background-color:pink;
 
   text-transform:uppercase;
+}
+
+.nav a:hover {
+  background-color:black;
 }
 
 .nav li {
