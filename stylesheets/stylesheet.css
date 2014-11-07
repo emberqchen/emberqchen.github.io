@@ -1,11 +1,12 @@
 .header {
   width:30%;
+  text-align:center;
   margin-left:auto; margin-right:auto;
   font-family:Helvetica, sans-serif;
 }
 
 .nav {
-  width:50%;
+  text-align:center;
   margin-left:auto; margin-right:auto;
 }
 .nav a {
