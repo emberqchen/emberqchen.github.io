@@ -1,15 +1,17 @@
 
 
+.nav {
+  margin-left:auto; margin-right:auto;
+}
 .nav a {
   position: ;
   color:#FFFFFF;
-  font-size: 20px;
-  font-weight:bold;
+  font-size: 20px; font-weight:bold; font-family:Helvetica, sans-serif;
   padding:5px;
   background-color:pink;
 
   text-transform:uppercase;
-  margin-left:auto; margin-right:auto;
+  
 }
 
 .nav li {
@@ -17,7 +19,7 @@
 }
 
 .jumbotron {
-  height:500px;
+  height:400px; width:auto;
   background-image:url('../images/me1.png');
   margin-left:auto; margin-right:auto;
 }
