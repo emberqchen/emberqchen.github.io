@@ -1,6 +1,6 @@
 .header {
+  width:300px;
   margin-left:auto; margin-right:auto;
-
   font-family:Helvetica, sans-serif;
 }
 
@@ -24,6 +24,7 @@
 }
 
 .jumbotron {
+  width:600px; height:400px;
   background-image:url('../images/me1.png');
   margin-left:auto; margin-right:auto;
 }
