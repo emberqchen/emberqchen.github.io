@@ -7,20 +7,14 @@
   position: absolute;
   top: 0px;
   z-index: -1;
-}
-
-.header {
-  width:30%;
-  text-align:center;
-  margin-top:50px;
-  margin-left:auto; margin-right:auto;
-  font-family:Helvetica, sans-serif;
+  -webkit-opacity: 1;
+  -webkit-transition: all 3s ease;
 }
 
 .nav {
   background-color: #ed8383;
   width: 100%;
-  height: 35px;
+  height: 45px;
   position: fixed;
   top: 0; left: 0;
 }
@@ -39,8 +33,8 @@
   display: block;
   text-align: center;
   width: 130px;
-  height: 25px;
-  padding-top: 10px;
+  height: 30px;
+  padding-top: 15px;
   background-color: #ed8383;
   font-family: Helvetica, sans-serif;
   font-size: 15px;
@@ -53,5 +47,14 @@
     background-color: #d65953;
 }
 
-
+.header {
+  width:30%;
+  text-align:center;
+  margin-top:50px;
+  margin-left:auto; margin-right:auto;
+}
+.header h1 {
+    font-family: Pacifico, serif;
+    font-size: 40px;
+}
 
